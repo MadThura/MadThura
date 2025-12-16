@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Thura
+I am a Laravel Backend Developer. 
+Experience in building API (RESTFUL APIS).
 
-<!--
-**MadThura/MadThura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate  
+💻 Backend Developer (Laravel)  
+🌱 Currently learning Vue.js  
+📍 Myanmar  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- PHP, Laravel
+- MySQL, PostgreSQL
+- Vue.js
+- HTML, CSS, Javascript, Tailwind
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/MadThura
+- Linked: https://www.linkedin.com/in/thura-aung-a41b32260/
+- Facebook: https://www.facebook.com/thura.aung.192505?mibextid=ZbWKwL
