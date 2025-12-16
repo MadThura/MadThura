@@ -5,7 +5,7 @@ Experience in building API (RESTFUL APIS).
 🎓 Computer Science graduate  
 💻 Backend Developer (Laravel)  
 🌱 Currently learning Vue.js  
-📍 Myanmar  
+📍 Yangon, Myanmar  
 
 ---
 
